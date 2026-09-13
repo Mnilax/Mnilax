@@ -30,4 +30,4 @@ Paste an AI-agent profile. See what it already states, which questions remain un
 
 I like tools that are small enough to understand, useful enough to keep open, and honest about what they don't know.
 
-[@mnilax](https://x.com/mnilax) · [@lintchadotcom](https://x.com/lintchadotcom) · [telegram](https://t.me/lintcha)
+[@mnilax](https://x.com/mnilax)
