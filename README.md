@@ -15,13 +15,13 @@ I build small tools for things that are hard to inspect: AI agents, onchain data
 
 Reads what a Robinhood Chain launch calls itself and shows which of those self-declared strings also appear in the published snapshot. No score. No verdict.
 
-[open the tool](https://chain.lintcha.com) · [live launches](https://chain.lintcha.com/live/) · [telegram mini app](https://t.me/lintchabot) · [source](https://github.com/Mnilax/lintcha-chain)
+[open lintcha](https://lintcha.com) · [live launches](https://lintcha.com/live/) · [telegram mini app](https://t.me/lintchabot) · [source](https://github.com/Mnilax/lintcha-chain)
 
-### [lintcha](https://github.com/Mnilax/lintcha)
+### [lintcha charter](https://github.com/Mnilax/lintcha)
 
-Paste an AI-agent profile. See what it already states, which questions remain unanswered, and get missing lines ready to copy.
+An earlier charter-linting experiment, kept as a complete public source snapshot.
 
-[try it](https://lintcha.com) · [source](https://github.com/Mnilax/lintcha)
+[preserved source](https://github.com/Mnilax/lintcha)
 
 ## toolbox
 
