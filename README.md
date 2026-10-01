@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Mnilax — AI skills, tools and applications for AI agents. Now building Jevland." width="100%">
+  <img src="./assets/header.png" alt="Mnilax — AI skills, tools and applications for AI agents. Now building Jevland." width="100%">
 </p>
 
 # hey, i'm mnilax.

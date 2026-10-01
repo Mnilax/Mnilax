@@ -1,22 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">Mnilax — now building Jevland</title>
-  <desc id="desc">A restrained graphite banner with a lime accent and the words AI skills, agent tools and applications.</desc>
+  <desc id="desc">A warm paper and orange banner using the original Jevland J mark, with AI skills, agent tools and applications.</desc>
   <defs>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#30363d"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0v40" fill="none" stroke="#c8c1b2" stroke-width="0.7"/>
     </pattern>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#d4fc50"/>
-      <stop offset="1" stop-color="#86a62d"/>
-    </linearGradient>
   </defs>
-  <rect width="1200" height="260" rx="18" fill="#0d1117"/>
-  <rect width="1200" height="260" rx="18" fill="url(#grid)" opacity="0.7"/>
-  <path d="M54 66h34l16 28 16-28h34" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
-  <text x="54" y="144" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="54" font-weight="700" letter-spacing="3">MNILAX</text>
-  <text x="57" y="183" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="2">AI SKILLS · AGENT TOOLS · APPLICATIONS</text>
-  <line x1="780" y1="74" x2="1140" y2="74" stroke="#30363d"/>
-  <text x="1140" y="124" text-anchor="end" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="2">NOW BUILDING</text>
-  <text x="1140" y="172" text-anchor="end" fill="#d4fc50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="700" letter-spacing="2">JEVLAND</text>
-  <line x1="780" y1="198" x2="1140" y2="198" stroke="#d4fc50" stroke-width="3"/>
+  <rect width="1200" height="260" fill="#f3f0e8"/>
+  <rect width="1200" height="260" fill="url(#grid)" opacity="0.45"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" fill="none" stroke="#151513"/>
+  <line x1="760" y1="32" x2="760" y2="228" stroke="#c8c1b2"/>
+  <!-- Original Jevland favicon geometry and colours, unchanged. -->
+  <g transform="translate(54 44)">
+    <rect width="64" height="64" rx="14" fill="#11110f"/>
+    <path d="M17 13h31v25c0 10-7 15-17 15-8 0-14-4-16-11l10-4c1 4 3 6 7 6 4 0 6-2 6-7V22H17z" fill="#f15a2a"/>
+  </g>
+  <text x="138" y="72" fill="#ef5b2a" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">AI SKILLS / TOOLS / APPLICATIONS</text>
+  <text x="54" y="182" fill="#151513" font-family="Georgia, 'Times New Roman', serif" font-size="80" letter-spacing="-3">Mnilax.</text>
+  <text x="57" y="220" fill="#6d6a61" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0.6">BUILDING FOR AI AND AI AGENTS</text>
+  <text x="812" y="76" fill="#6d6a61" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">NOW BUILDING</text>
+  <text x="808" y="151" fill="#ef5b2a" font-family="Georgia, 'Times New Roman', serif" font-size="66" letter-spacing="-2">jevland</text>
+  <text x="812" y="186" fill="#151513" font-family="Arial, Helvetica, sans-serif" font-size="16">An independent Jev ecosystem index.</text>
+  <line x1="812" y1="218" x2="1146" y2="218" stroke="#ef5b2a" stroke-width="3"/>
 </svg>
